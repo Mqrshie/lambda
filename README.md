@@ -43,7 +43,7 @@ How do I...
 
 > Download the .jar file from releases or build it yourself put the jar file in `.minecraft/mods` and load up minecraft with Forge 1.12.2 and it will work.
 
-</details>
+<details>
 
 <details>
   <summary>... execute a command?</summary>
